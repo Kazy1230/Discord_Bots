@@ -1,0 +1,2002 @@
+[
+    {
+      "id": 1,
+      "level": 1,
+      "exam": "General",
+      "sentence": "I ran into an old friend at the station.",
+      "translation": "駅で昔の友人に偶然会った。",
+      "expression": "run into 人",
+      "meaning": "（人に）偶然出会う",
+      "nuance": "事前の約束なしに、ばったり会うことを表すカジュアルな口語表現。"
+    },
+    {
+      "id": 2,
+      "level": 2,
+      "exam": "TOEIC",
+      "sentence": "Please let me know if you have any further questions.",
+      "translation": "さらにご質問があればお知らせください。",
+      "expression": "let 人 know ～",
+      "meaning": "（人に）～を知らせる",
+      "nuance": "ビジネスメールで非常に頻出。tell 人 ～ よりも柔らかく丁寧な印象。"
+    },
+    {
+      "id": 3,
+      "level": 3,
+      "exam": "TOEFL",
+      "sentence": "The results indicate that the new policy was ineffective.",
+      "translation": "その結果は、新しい政策が効果的でなかったことを示している。",
+      "expression": "indicate that S V",
+      "meaning": "〜であることを示す",
+      "nuance": "データや証拠に基づき客観的に述べるときに使うアカデミック頻出表現。"
+    },
+    {
+      "id": 4,
+      "level": 3,
+      "exam": "IELTS",
+      "sentence": "It is widely believed that education plays a crucial role in economic growth.",
+      "translation": "教育が経済成長において重要な役割を果たすと広く信じられている。",
+      "expression": "play a crucial role in ～",
+      "meaning": "〜において重要な役割を果たす",
+      "nuance": "エッセイで非常に使いやすい定型表現。crucial は extremely important に近い強い語。"
+    },
+    {
+      "id": 5,
+      "level": 2,
+      "exam": "TOEIC",
+      "sentence": "The project has been put on hold due to budget constraints.",
+      "translation": "そのプロジェクトは予算の制約により保留になっている。",
+      "expression": "put ～ on hold",
+      "meaning": "〜を保留にする",
+      "nuance": "中止ではなく一時停止の意味。ビジネス現場で非常によく使われる。"
+    },
+    {
+      "id": 6,
+      "level": 1,
+      "exam": "General",
+      "sentence": "She finally made up her mind to study abroad.",
+      "translation": "彼女はついに留学することを決心した。",
+      "expression": "make up one's mind to V",
+      "meaning": "Vすることを決心する",
+      "nuance": "迷った末に決断するニュアンスを含む日常頻出表現。"
+    },
+    {
+      "id": 7,
+      "level": 2,
+      "exam": "TOEIC",
+      "sentence": "We need to come up with a new marketing strategy.",
+      "translation": "私たちは新しいマーケティング戦略を考え出す必要がある。",
+      "expression": "come up with ～",
+      "meaning": "〜を思いつく／考え出す",
+      "nuance": "会議・ビジネス文脈で頻出。ゼロからアイデアを生み出すイメージ。"
+    },
+    {
+      "id": 8,
+      "level": 3,
+      "exam": "TOEFL",
+      "sentence": "The theory is based on extensive research conducted over decades.",
+      "translation": "その理論は、数十年にわたる広範な研究に基づいている。",
+      "expression": "be based on ～",
+      "meaning": "〜に基づいている",
+      "nuance": "客観性・信頼性を示すときに使うアカデミック定番表現。"
+    },
+    {
+      "id": 9,
+      "level": 3,
+      "exam": "IELTS",
+      "sentence": "There is growing concern about the impact of social media on mental health.",
+      "translation": "ソーシャルメディアが精神的健康に与える影響について、懸念が高まっている。",
+      "expression": "There is growing concern about ～",
+      "meaning": "〜についての懸念が高まっている",
+      "nuance": "エッセイ導入で非常に使いやすいフォーマル表現。社会問題系で頻出。"
+    },
+    {
+      "id": 10,
+      "level": 2,
+      "exam": "TOEIC",
+      "sentence": "The company aims to expand its business overseas.",
+      "translation": "その会社は海外に事業を拡大することを目指している。",
+      "expression": "aim to V",
+      "meaning": "Vすることを目指す",
+      "nuance": "企業目標・戦略説明で頻出。intend to V よりやや前向きで柔らかい印象。"
+    },
+    {
+        "id": 11,
+        "level": 1,
+        "exam": "General",
+        "sentence": "He gave up smoking last year.",
+        "translation": "彼は昨年タバコをやめた。",
+        "expression": "give up ～",
+        "meaning": "〜をやめる／あきらめる",
+        "nuance": "習慣や挑戦を途中でやめるときに使う頻出句動詞。"
+      },
+      {
+        "id": 12,
+        "level": 1,
+        "exam": "General",
+        "sentence": "Please turn off the lights before you leave.",
+        "translation": "出かける前に電気を消してください。",
+        "expression": "turn off ～",
+        "meaning": "〜を消す",
+        "nuance": "電気・機械・音などを止める基本句動詞。"
+      },
+      {
+        "id": 13,
+        "level": 2,
+        "exam": "TOEIC",
+        "sentence": "We are looking forward to your reply.",
+        "translation": "ご返信をお待ちしております。",
+        "expression": "look forward to ～",
+        "meaning": "〜を楽しみに待つ",
+        "nuance": "ビジネスメールで定番。to の後ろは名詞や動名詞。"
+      },
+      {
+        "id": 14,
+        "level": 2,
+        "exam": "TOEIC",
+        "sentence": "The meeting has been canceled due to unforeseen circumstances.",
+        "translation": "予期せぬ事情により会議は中止されました。",
+        "expression": "due to ～",
+        "meaning": "〜が原因で",
+        "nuance": "フォーマルな理由提示表現。because of より硬い。"
+      },
+      {
+        "id": 15,
+        "level": 3,
+        "exam": "TOEFL",
+        "sentence": "The experiment was conducted in order to test the hypothesis.",
+        "translation": "その実験は仮説を検証するために実施された。",
+        "expression": "in order to V",
+        "meaning": "Vするために",
+        "nuance": "目的を明確に示すフォーマル表現。論文で頻出。"
+      },
+      {
+        "id": 16,
+        "level": 3,
+        "exam": "IELTS",
+        "sentence": "It is often argued that technology widens the gap between generations.",
+        "translation": "テクノロジーは世代間の溝を広げるとしばしば議論されている。",
+        "expression": "It is argued that S V",
+        "meaning": "〜であると議論されている",
+        "nuance": "エッセイで客観性を出すときに使う受動構文。"
+      },
+      {
+        "id": 17,
+        "level": 2,
+        "exam": "TOEIC",
+        "sentence": "Our sales increased significantly compared to last year.",
+        "translation": "当社の売上は昨年と比べて大幅に増加した。",
+        "expression": "compared to ～",
+        "meaning": "〜と比較して",
+        "nuance": "数値・業績報告で頻出。"
+      },
+      {
+        "id": 18,
+        "level": 3,
+        "exam": "TOEFL",
+        "sentence": "The data suggests a strong correlation between diet and health.",
+        "translation": "そのデータは食事と健康の間に強い相関関係があることを示唆している。",
+        "expression": "a correlation between A and B",
+        "meaning": "AとBの間の相関関係",
+        "nuance": "アカデミック頻出名詞表現。"
+      },
+      {
+        "id": 19,
+        "level": 1,
+        "exam": "General",
+        "sentence": "Can you pick me up at the airport?",
+        "translation": "空港に迎えに来てくれる？",
+        "expression": "pick 人 up",
+        "meaning": "（人を）迎えに行く",
+        "nuance": "日常会話で非常に頻出。"
+      },
+      {
+        "id": 20,
+        "level": 2,
+        "exam": "TOEIC",
+        "sentence": "Please fill out the attached form.",
+        "translation": "添付の書類にご記入ください。",
+        "expression": "fill out ～",
+        "meaning": "〜に記入する",
+        "nuance": "書類・申請関連で頻出。"
+      },
+      {
+        "id": 21,
+        "level": 3,
+        "exam": "IELTS",
+        "sentence": "There is no doubt that climate change poses a serious threat.",
+        "translation": "気候変動が深刻な脅威であることは疑いない。",
+        "expression": "There is no doubt that S V",
+        "meaning": "〜であることは疑いない",
+        "nuance": "強い主張をするときの定番構文。"
+      },
+      {
+        "id": 22,
+        "level": 2,
+        "exam": "TOEIC",
+        "sentence": "We apologize for the inconvenience caused.",
+        "translation": "ご迷惑をおかけしたことをお詫びいたします。",
+        "expression": "apologize for ～",
+        "meaning": "〜を謝罪する",
+        "nuance": "フォーマル謝罪表現。"
+      },
+      {
+        "id": 23,
+        "level": 3,
+        "exam": "TOEFL",
+        "sentence": "The study sheds light on the causes of the phenomenon.",
+        "translation": "その研究はその現象の原因を明らかにしている。",
+        "expression": "shed light on ～",
+        "meaning": "〜を明らかにする",
+        "nuance": "学術的文章で頻出の比喩的表現。"
+      },
+      {
+        "id": 24,
+        "level": 1,
+        "exam": "General",
+        "sentence": "She takes care of her younger brother.",
+        "translation": "彼女は弟の世話をしている。",
+        "expression": "take care of ～",
+        "meaning": "〜の世話をする",
+        "nuance": "日常頻出の基本表現。"
+      },
+      {
+        "id": 25,
+        "level": 2,
+        "exam": "TOEIC",
+        "sentence": "The company is responsible for the damage.",
+        "translation": "その会社はその損害に責任がある。",
+        "expression": "be responsible for ～",
+        "meaning": "〜に責任がある",
+        "nuance": "責任所在を明確にするフォーマル表現。"
+      },
+      {
+        "id": 26,
+        "level": 3,
+        "exam": "IELTS",
+        "sentence": "It is essential that governments take immediate action.",
+        "translation": "政府が直ちに行動を取ることが不可欠である。",
+        "expression": "It is essential that S V",
+        "meaning": "〜することが不可欠である",
+        "nuance": "提案・主張型エッセイで頻出。that節内は原形動詞。"
+      },
+      {
+        "id": 27,
+        "level": 2,
+        "exam": "TOEIC",
+        "sentence": "We are in charge of customer support.",
+        "translation": "私たちは顧客サポートを担当している。",
+        "expression": "be in charge of ～",
+        "meaning": "〜を担当している",
+        "nuance": "業務説明で頻出。"
+      },
+      {
+        "id": 28,
+        "level": 3,
+        "exam": "TOEFL",
+        "sentence": "The findings are consistent with previous research.",
+        "translation": "その発見は以前の研究と一致している。",
+        "expression": "be consistent with ～",
+        "meaning": "〜と一致している",
+        "nuance": "研究比較で頻出。"
+      },
+      {
+        "id": 29,
+        "level": 1,
+        "exam": "General",
+        "sentence": "I am looking for my keys.",
+        "translation": "私は鍵を探している。",
+        "expression": "look for ～",
+        "meaning": "〜を探す",
+        "nuance": "日常基本動詞。"
+      },
+      {
+        "id": 30,
+        "level": 2,
+        "exam": "TOEIC",
+        "sentence": "The contract will expire next month.",
+        "translation": "その契約は来月失効する。",
+        "expression": "expire",
+        "meaning": "期限が切れる",
+        "nuance": "契約・免許などに使うフォーマル語。"
+      },
+        {
+          "id": 31,
+          "level": 3,
+          "exam": "IELTS",
+          "sentence": "Students are required to submit the assignment by Friday.",
+          "translation": "学生は金曜日までに課題を提出することを求められている。",
+          "expression": "be required to V",
+          "meaning": "Vすることを求められる",
+          "nuance": "must よりもフォーマルで、規則や制度による義務を表す。"
+        },
+        {
+          "id": 32,
+          "level": 2,
+          "exam": "General",
+          "sentence": "She is looking after her younger brother today.",
+          "translation": "彼女は今日、弟の世話をしている。",
+          "expression": "look after 人",
+          "meaning": "（人）の世話をする",
+          "nuance": "look at ～ は「見る」、look for ～ は「探す」だが、look after ～ は「世話をする」という別の意味になる。"
+        },
+        {
+          "id": 33,
+          "level": 2,
+          "exam": "General",
+          "sentence": "We ran out of time during the exam.",
+          "translation": "試験中に時間がなくなった。",
+          "expression": "run out of ～",
+          "meaning": "〜を使い果たす",
+          "nuance": "物理的にゼロになるニュアンスが強い。受動形では使えない点にも注意。"
+        },
+        {
+          "id": 34,
+          "level": 2,
+          "exam": "TOEIC",
+          "sentence": "The manager provided the employees with useful feedback.",
+          "translation": "マネージャーは従業員に有益なフィードバックを提供した。",
+          "expression": "provide 人 with ～",
+          "meaning": "（人）に〜を提供する",
+          "nuance": "provide ～ だけでも使えるが、provide 人 with ～ は「誰に提供するか」を明確に示す形。"
+        },
+        {
+          "id": 35,
+          "level": 3,
+          "exam": "TOEFL",
+          "sentence": "This theory is based on empirical evidence.",
+          "translation": "この理論は実証的証拠に基づいている。",
+          "expression": "be based on ～",
+          "meaning": "〜に基づいている",
+          "nuance": "意見ではなく、客観的な事実やデータを根拠にしていることを示すフォーマル表現。"
+        },
+        {
+          "id": 36,
+          "level": 2,
+          "exam": "General",
+          "sentence": "He came up with an innovative solution.",
+          "translation": "彼は革新的な解決策を思いついた。",
+          "expression": "come up with ～",
+          "meaning": "〜を思いつく",
+          "nuance": "think of ～ よりも、工夫や努力の末に生み出すニュアンスがある。"
+        },
+        {
+          "id": 37,
+          "level": 3,
+          "exam": "IELTS",
+          "sentence": "This outcome is likely to affect future policies.",
+          "translation": "この結果は将来の政策に影響を与える可能性が高い。",
+          "expression": "be likely to V",
+          "meaning": "Vする可能性が高い",
+          "nuance": "probably よりもフォーマルで、客観的根拠に基づく可能性を示す。"
+        },
+        {
+          "id": 38,
+          "level": 2,
+          "exam": "General",
+          "sentence": "The teacher pointed out my mistake.",
+          "translation": "先生は私の間違いを指摘した。",
+          "expression": "point out ～",
+          "meaning": "〜を指摘する",
+          "nuance": "単に say ～ よりも、「注意を向けさせる」ニュアンスがある。"
+        },
+        {
+          "id": 39,
+          "level": 2,
+          "exam": "General",
+          "sentence": "After hours of debate, they decided on a final proposal.",
+          "translation": "何時間もの議論の末、彼らは最終案を選んだ。",
+          "expression": "decide on ～",
+          "meaning": "〜を選んで決定する",
+          "nuance": "decide ～ は単に決定する意味だが、decide on ～ は複数の選択肢の中から1つを選ぶニュアンスがある。"
+        },
+        {
+          "id": 40,
+          "level": 3,
+          "exam": "TOEFL",
+          "sentence": "The disease is associated with poor diet.",
+          "translation": "その病気は不健康な食生活と関連している。",
+          "expression": "be associated with ～",
+          "meaning": "〜と関連している",
+          "nuance": "be related to ～ と似ているが、associated は統計的・科学的な関連を示す場面でよく使われる。"
+        },
+        {
+            "id": 41,
+            "level": 2,
+            "exam": "General",
+            "sentence": "She turned down the job offer.",
+            "translation": "彼女はその仕事の申し出を断った。",
+            "expression": "turn down ～",
+            "meaning": "〜を断る",
+            "nuance": "refuse よりも口語的で自然な表現。"
+          },
+          {
+            "id": 42,
+            "level": 3,
+            "exam": "TOEFL",
+            "sentence": "The results differ significantly from previous studies.",
+            "translation": "その結果は以前の研究と大きく異なっている。",
+            "expression": "differ from ～",
+            "meaning": "〜と異なる",
+            "nuance": "be different from ～ と似ているが、differ はよりフォーマルで学術的。"
+          },
+          {
+            "id": 43,
+            "level": 2,
+            "exam": "General",
+            "sentence": "Please fill out this application form.",
+            "translation": "この申込書に記入してください。",
+            "expression": "fill out ～",
+            "meaning": "〜に記入する",
+            "nuance": "fill in ～ もほぼ同じ意味だが、out のほうがアメリカ英語でよく使われる。"
+          },
+          {
+            "id": 44,
+            "level": 3,
+            "exam": "IELTS",
+            "sentence": "The company aims to expand its global presence.",
+            "translation": "その会社は世界的な展開を拡大することを目指している。",
+            "expression": "aim to V",
+            "meaning": "Vすることを目指す",
+            "nuance": "plan to よりも理想や目標のニュアンスが強い。"
+          },
+          {
+            "id": 45,
+            "level": 2,
+            "exam": "TOEIC",
+            "sentence": "The new policy will take effect next month.",
+            "translation": "新しい方針は来月発効する。",
+            "expression": "take effect",
+            "meaning": "効力を発する",
+            "nuance": "be effective は「効果がある」という意味であり、意味が異なる。"
+          },
+          {
+            "id": 46,
+            "level": 2,
+            "exam": "General",
+            "sentence": "He gave up smoking last year.",
+            "translation": "彼は昨年タバコをやめた。",
+            "expression": "give up ～",
+            "meaning": "〜をやめる",
+            "nuance": "stop ～ よりも「意志的に断念する」ニュアンスがある。"
+          },
+          {
+            "id": 47,
+            "level": 3,
+            "exam": "TOEFL",
+            "sentence": "The findings contribute to our understanding of climate change.",
+            "translation": "その発見は気候変動の理解に貢献している。",
+            "expression": "contribute to ～",
+            "meaning": "〜に貢献する",
+            "nuance": "lead to ～ は「結果として引き起こす」であり、意味が異なる。"
+          },
+          {
+            "id": 48,
+            "level": 2,
+            "exam": "General",
+            "sentence": "She set up her own business.",
+            "translation": "彼女は自分の会社を設立した。",
+            "expression": "set up ～",
+            "meaning": "〜を設立する",
+            "nuance": "build ～ は物理的に建てる意味であり、組織設立とは異なる。"
+          },
+          {
+            "id": 49,
+            "level": 3,
+            "exam": "IELTS",
+            "sentence": "The government is responsible for public safety.",
+            "translation": "政府は公共の安全に責任がある。",
+            "expression": "be responsible for ～",
+            "meaning": "〜に責任がある",
+            "nuance": "in charge of ～ は「担当している」であり、法的責任とは必ずしも一致しない。"
+          },
+          {
+            "id": 50,
+            "level": 2,
+            "exam": "General",
+            "sentence": "He picked up some useful tips during the seminar.",
+            "translation": "彼はセミナーで役立つコツを学んだ。",
+            "expression": "pick up ～",
+            "meaning": "〜を偶然学ぶ／身につける",
+            "nuance": "learn ～ よりも自然に習得するニュアンスがある。"
+          },
+          {
+            "id": 51,
+            "level": 3,
+            "exam": "TOEIC",
+            "sentence": "The proposal was approved by the board.",
+            "translation": "その提案は取締役会に承認された。",
+            "expression": "approve ～",
+            "meaning": "〜を承認する",
+            "nuance": "agree with ～ は意見に賛成する意味で、公式承認とは異なる。"
+          },
+          {
+            "id": 52,
+            "level": 2,
+            "exam": "General",
+            "sentence": "Please put off the meeting until tomorrow.",
+            "translation": "会議を明日まで延期してください。",
+            "expression": "put off ～",
+            "meaning": "〜を延期する",
+            "nuance": "delay ～ よりも口語的。"
+          },
+          {
+            "id": 53,
+            "level": 3,
+            "exam": "TOEFL",
+            "sentence": "This issue has a significant impact on society.",
+            "translation": "この問題は社会に大きな影響を与えている。",
+            "expression": "have an impact on ～",
+            "meaning": "〜に影響を与える",
+            "nuance": "affect ～ よりも名詞構文でフォーマルな表現。"
+          },
+          {
+            "id": 54,
+            "level": 2,
+            "exam": "General",
+            "sentence": "She carried out the experiment successfully.",
+            "translation": "彼女はその実験を成功裏に実施した。",
+            "expression": "carry out ～",
+            "meaning": "〜を実行する",
+            "nuance": "do ～ よりもフォーマルで計画的実行を示す。"
+          },
+          {
+            "id": 55,
+            "level": 3,
+            "exam": "IELTS",
+            "sentence": "Many factors account for the decline in sales.",
+            "translation": "多くの要因が売上減少の原因となっている。",
+            "expression": "account for ～",
+            "meaning": "〜の原因となる／説明する",
+            "nuance": "explain ～ と似ているが、割合や理由を示す場面でよく使われる。"
+          },
+          {
+            "id": 56,
+            "level": 2,
+            "exam": "General",
+            "sentence": "He looked up the word in the dictionary.",
+            "translation": "彼は辞書でその単語を調べた。",
+            "expression": "look up ～",
+            "meaning": "〜を調べる",
+            "nuance": "search for ～ は探し回るニュアンスで、look up は情報を参照する意味。"
+          },
+          {
+            "id": 57,
+            "level": 3,
+            "exam": "TOEFL",
+            "sentence": "The company is engaged in international trade.",
+            "translation": "その会社は国際貿易に従事している。",
+            "expression": "be engaged in ～",
+            "meaning": "〜に従事している",
+            "nuance": "be involved in ～ と似ているが、engaged はよりフォーマル。"
+          },
+          {
+            "id": 58,
+            "level": 2,
+            "exam": "General",
+            "sentence": "She made up her mind to study abroad.",
+            "translation": "彼女は留学する決心をした。",
+            "expression": "make up one's mind",
+            "meaning": "決心する",
+            "nuance": "decide よりも「迷いの末に決める」ニュアンスがある。"
+          },
+          {
+            "id": 59,
+            "level": 3,
+            "exam": "IELTS",
+            "sentence": "The data indicate a rapid increase in demand.",
+            "translation": "そのデータは需要の急増を示している。",
+            "expression": "indicate ～",
+            "meaning": "〜を示す",
+            "nuance": "show ～ よりも客観的・分析的な印象を与える。"
+          },
+          {
+            "id": 60,
+            "level": 2,
+            "exam": "General",
+            "sentence": "He took over the family business.",
+            "translation": "彼は家業を引き継いだ。",
+            "expression": "take over ～",
+            "meaning": "〜を引き継ぐ",
+            "nuance": "inherit は相続の意味が強く、take over は経営・役割を引き継ぐニュアンス。"
+          },
+          {
+            "id": 61,
+            "level": 2,
+            "exam": "General",
+            "sentence": "She came across an old photo in the drawer.",
+            "translation": "彼女は引き出しの中で古い写真を偶然見つけた。",
+            "expression": "come across ～",
+            "meaning": "〜に偶然出会う",
+            "nuance": "find ～ は意図的に見つけることも含むが、come across は偶然性が強い。"
+          },
+          {
+            "id": 62,
+            "level": 3,
+            "exam": "TOEIC",
+            "sentence": "The company complies with international standards.",
+            "translation": "その会社は国際基準を順守している。",
+            "expression": "comply with ～",
+            "meaning": "〜を順守する",
+            "nuance": "follow ～ よりも法律・規則を守るというフォーマルな意味合いが強い。"
+          },
+          {
+            "id": 63,
+            "level": 4,
+            "exam": "TOEFL",
+            "sentence": "The policy was implemented in response to public criticism.",
+            "translation": "その政策は世論の批判に応じて実施された。",
+            "expression": "in response to ～",
+            "meaning": "〜に応じて",
+            "nuance": "because of ～ よりも公式で因果関係を明確に示す表現。"
+          },
+          {
+            "id": 64,
+            "level": 2,
+            "exam": "General",
+            "sentence": "He called off the game due to heavy rain.",
+            "translation": "彼は大雨のため試合を中止した。",
+            "expression": "call off ～",
+            "meaning": "〜を中止する",
+            "nuance": "cancel ～ よりも口語的。"
+          },
+          {
+            "id": 65,
+            "level": 3,
+            "exam": "IELTS",
+            "sentence": "This trend reflects changes in consumer behavior.",
+            "translation": "この傾向は消費者行動の変化を反映している。",
+            "expression": "reflect ～",
+            "meaning": "〜を反映する",
+            "nuance": "mirror ～ と似ているが、reflect はより一般的で学術的にも使われる。"
+          },
+          {
+            "id": 66,
+            "level": 4,
+            "exam": "IELTS",
+            "sentence": "The theory has been widely criticized for its lack of empirical support.",
+            "translation": "その理論は実証的裏付けの欠如で広く批判されてきた。",
+            "expression": "be criticized for ～",
+            "meaning": "〜の理由で批判される",
+            "nuance": "criticize ～ は能動形だが、受動形は学術論文でよく使われる。"
+          },
+          {
+            "id": 67,
+            "level": 2,
+            "exam": "General",
+            "sentence": "Please take care of yourself.",
+            "translation": "どうか体に気をつけてください。",
+            "expression": "take care of ～",
+            "meaning": "〜の世話をする／気をつける",
+            "nuance": "look after ～ と似ているが、take care of はより広い意味で使える。"
+          },
+          {
+            "id": 68,
+            "level": 3,
+            "exam": "TOEFL",
+            "sentence": "The experiment resulted in unexpected outcomes.",
+            "translation": "その実験は予想外の結果をもたらした。",
+            "expression": "result in ～",
+            "meaning": "〜という結果になる",
+            "nuance": "lead to ～ と似ているが、result in はより形式的。"
+          },
+          {
+            "id": 69,
+            "level": 4,
+            "exam": "TOEFL",
+            "sentence": "The research sheds light on the underlying mechanisms of the disease.",
+            "translation": "その研究はその病気の根本的な仕組みに光を当てている。",
+            "expression": "shed light on ～",
+            "meaning": "〜を明らかにする",
+            "nuance": "clarify ～ よりも比喩的で学術的文章に多い。"
+          },
+          {
+            "id": 70,
+            "level": 2,
+            "exam": "General",
+            "sentence": "He ran into an old friend at the station.",
+            "translation": "彼は駅で旧友に偶然会った。",
+            "expression": "run into ～",
+            "meaning": "〜に偶然出会う",
+            "nuance": "meet ～ は計画的な場合も含むが、run into は偶然性が強い。"
+          },
+          {
+            "id": 71,
+            "level": 3,
+            "exam": "TOEIC",
+            "sentence": "The new system is designed to improve efficiency.",
+            "translation": "その新システムは効率を向上させるよう設計されている。",
+            "expression": "be designed to V",
+            "meaning": "Vするよう設計されている",
+            "nuance": "be made to V よりも目的を明確に示す。"
+          },
+          {
+            "id": 72,
+            "level": 2,
+            "exam": "General",
+            "sentence": "She broke down in tears.",
+            "translation": "彼女は突然泣き崩れた。",
+            "expression": "break down",
+            "meaning": "取り乱す／故障する",
+            "nuance": "文脈によって意味が変わる多義表現。"
+          },
+          {
+            "id": 73,
+            "level": 4,
+            "exam": "IELTS",
+            "sentence": "The proposal was rejected on the grounds that it lacked feasibility.",
+            "translation": "その提案は実現可能性に欠けるという理由で却下された。",
+            "expression": "on the grounds that ～",
+            "meaning": "〜という理由で",
+            "nuance": "because ～ よりもはるかにフォーマルで法律・学術文脈で使われる。"
+          },
+          {
+            "id": 74,
+            "level": 3,
+            "exam": "TOEFL",
+            "sentence": "The evidence supports the hypothesis.",
+            "translation": "その証拠は仮説を支持している。",
+            "expression": "support ～",
+            "meaning": "〜を支持する",
+            "nuance": "prove ～ は完全な証明だが、support は裏付ける程度を示す。"
+          },
+          {
+            "id": 75,
+            "level": 2,
+            "exam": "General",
+            "sentence": "He figured out the answer quickly.",
+            "translation": "彼はすぐに答えを理解した。",
+            "expression": "figure out ～",
+            "meaning": "〜を理解する／解決する",
+            "nuance": "understand よりも「考えて解決する」ニュアンスがある。"
+          },
+          {
+            "id": 76,
+            "level": 3,
+            "exam": "IELTS",
+            "sentence": "The survey revealed a decline in public trust.",
+            "translation": "その調査は国民の信頼低下を明らかにした。",
+            "expression": "reveal ～",
+            "meaning": "〜を明らかにする",
+            "nuance": "show ～ よりも新情報を示すニュアンスが強い。"
+          },
+          {
+            "id": 77,
+            "level": 2,
+            "exam": "General",
+            "sentence": "She put up with the noise.",
+            "translation": "彼女はその騒音を我慢した。",
+            "expression": "put up with ～",
+            "meaning": "〜を我慢する",
+            "nuance": "tolerate ～ よりも口語的。"
+          },
+          {
+            "id": 78,
+            "level": 3,
+            "exam": "TOEIC",
+            "sentence": "The company strives to maintain high standards.",
+            "translation": "その会社は高い基準を維持するよう努めている。",
+            "expression": "strive to V",
+            "meaning": "Vするよう努める",
+            "nuance": "try to ～ よりも努力の強さを強調する。"
+          },
+          {
+            "id": 79,
+            "level": 2,
+            "exam": "General",
+            "sentence": "He brought up an interesting question.",
+            "translation": "彼は興味深い質問を提起した。",
+            "expression": "bring up ～",
+            "meaning": "〜を話題に出す",
+            "nuance": "mention ～ よりも議題として取り上げるニュアンスがある。"
+          },
+          {
+            "id": 80,
+            "level": 3,
+            "exam": "TOEFL",
+            "sentence": "The results are consistent with previous findings.",
+            "translation": "その結果は以前の研究結果と一致している。",
+            "expression": "be consistent with ～",
+            "meaning": "〜と一致している",
+            "nuance": "agree with ～ よりも学術的な一致を示す。"
+          },
+          {
+            "id": 81,
+            "level": 3,
+            "exam": "IELTS",
+            "sentence": "The government should implement stricter regulations on carbon emissions.",
+            "translation": "政府は炭素排出に対してより厳しい規制を実施すべきである。",
+            "expression": "implement ～",
+            "meaning": "（政策・計画など）を実施する",
+            "nuance": "carry out よりもフォーマルで、公式な制度や計画を「実行に移す」際に使われる。"
+          },
+          {
+            "id": 82,
+            "level": 2,
+            "exam": "TOEIC",
+            "sentence": "I'll get back to you as soon as I have more information.",
+            "translation": "詳細がわかり次第、折り返しご連絡いたします。",
+            "expression": "get back to 人",
+            "meaning": "（人）に後で連絡し直す",
+            "nuance": "ビジネスの電話やメールで非常に頻出。返答を待たせる際の定番フレーズ。"
+          },
+          {
+            "id": 83,
+            "level": 3,
+            "exam": "TOEFL",
+            "sentence": "The phenomenon can be attributed to several factors.",
+            "translation": "その現象はいくつかの要因に起因すると考えられる。",
+            "expression": "be attributed to ～",
+            "meaning": "〜に起因する／〜のせいである",
+            "nuance": "結果の原因を客観的に分析するアカデミックな表現。"
+          },
+          {
+            "id": 84,
+            "level": 1,
+            "exam": "General",
+            "sentence": "I'm not sure if I can make it to the party tonight.",
+            "translation": "今夜のパーティーに行けるかどうかわからない。",
+            "expression": "make it to ～",
+            "meaning": "（会合などに）出席する／間に合う",
+            "nuance": "都合をつけて「行く」「到着する」というニュアンスの日常表現。"
+          },
+          {
+            "id": 85,
+            "level": 2,
+            "exam": "TOEIC",
+            "sentence": "We need to address the issue of declining sales immediately.",
+            "translation": "私たちは売上減少の問題に直ちに対処する必要がある。",
+            "expression": "address ～",
+            "meaning": "（問題など）に対処する／取り組む",
+            "nuance": "deal with よりも意識的に解決しようと取り組む姿勢を示すフォーマルな語。"
+          },
+          {
+            "id": 86,
+            "level": 3,
+            "exam": "IELTS",
+            "sentence": "The advantages of this method outweigh the disadvantages.",
+            "translation": "この方法の利点は欠点を上回っている。",
+            "expression": "outweigh ～",
+            "meaning": "〜を上回る／〜より重要である",
+            "nuance": "2つのことを比較して、一方の価値や影響が勝っていることを示すエッセイ頻出語。"
+          },
+          {
+            "id": 87,
+            "level": 2,
+            "exam": "General",
+            "sentence": "I can't figure out how to use this software.",
+            "translation": "このソフトウェアの使い方がわからない（理解できない）。",
+            "expression": "figure out ～",
+            "meaning": "〜を理解する／解決策を見出す",
+            "nuance": "頭を使って「なるほど、そうか」と納得・解決するプロセスを含む。"
+          },
+          {
+            "id": 88,
+            "level": 3,
+            "exam": "TOEFL",
+            "sentence": "The study contradicts previous theories regarding human evolution.",
+            "translation": "その研究は、人類の進化に関する以前の理論と矛盾している。",
+            "expression": "contradict ～",
+            "meaning": "〜と矛盾する／〜を否定する",
+            "nuance": "データや事実が、他の主張と食い違っていることを示す際に使う。"
+          },
+          {
+            "id": 89,
+            "level": 2,
+            "exam": "TOEIC",
+            "sentence": "The seminar has been pushed back to next Friday.",
+            "translation": "セミナーは来週の金曜日に延期（後ろ倒し）された。",
+            "expression": "push back ～",
+            "meaning": "〜を遅らせる／延期する",
+            "nuance": "put off よりもスケジュールを後ろにずらすという視覚的なイメージが強い。"
+          },
+          {
+            "id": 90,
+            "level": 4,
+            "exam": "IELTS",
+            "sentence": "Urbanization has led to a significant shift in lifestyle.",
+            "translation": "都市化はライフスタイルに大きな変化をもたらした。",
+            "expression": "a shift in ～",
+            "meaning": "〜における変化／転換",
+            "nuance": "change よりも、方向性や傾向がガラリと変わるニュアンス。"
+          },
+          {
+            "id": 91,
+            "level": 2,
+            "exam": "General",
+            "sentence": "Could you go over the report one more time?",
+            "translation": "もう一度レポートに目を通していただけますか？",
+            "expression": "go over ～",
+            "meaning": "〜を詳しく調べる／復習する",
+            "nuance": "内容を丁寧に確認・検討する際に使われる。check よりも入念な印象。"
+          },
+          {
+            "id": 92,
+            "level": 3,
+            "exam": "TOEFL",
+            "sentence": "Plants absorb carbon dioxide through their leaves.",
+            "translation": "植物は葉から二酸化炭素を吸収する。",
+            "expression": "absorb ～",
+            "meaning": "〜を吸収する",
+            "nuance": "液体、知識、衝撃などを取り込む際に幅広く使われる学術頻出語。"
+          },
+          {
+            "id": 93,
+            "level": 2,
+            "exam": "TOEIC",
+            "sentence": "The new marketing campaign will launch next month.",
+            "translation": "新しいマーケティングキャンペーンが来月始まる。",
+            "expression": "launch ～",
+            "meaning": "〜を開始する／発売する",
+            "nuance": "新製品やプロジェクトを大々的にスタートさせる際に使われる。"
+          },
+          {
+            "id": 94,
+            "level": 3,
+            "exam": "IELTS",
+            "sentence": "It is crucial to take all perspectives into account.",
+            "translation": "すべての視点を考慮に入れることが極めて重要である。",
+            "expression": "take ～ into account",
+            "meaning": "〜を考慮に入れる",
+            "nuance": "consider と同義だが、判断材料として要素を組み込むことを強調する。"
+          },
+          {
+            "id": 95,
+            "level": 1,
+            "exam": "General",
+            "sentence": "I've been meaning to call you for a while.",
+            "translation": "ずっと君に電話しようと思っていたんだ。",
+            "expression": "mean to V",
+            "meaning": "Vするつもりである",
+            "nuance": "意図を表すが、現在完了進行形にすることで「前からずっとやろうとしていた」という感情がこもる。"
+          },
+          {
+            "id": 96,
+            "level": 3,
+            "exam": "TOEFL",
+            "sentence": "The island is inhabited by a variety of rare species.",
+            "translation": "その島には、さまざまな希少種が生息している。",
+            "expression": "inhabit ～",
+            "meaning": "〜に居住する／生息する",
+            "nuance": "live in よりもフォーマルで、特定の地域に定住している状態を表す。"
+          },
+          {
+            "id": 97,
+            "level": 2,
+            "exam": "TOEIC",
+            "sentence": "Our primary objective is to improve customer satisfaction.",
+            "translation": "私たちの主要な目標は顧客満足度を向上させることだ。",
+            "expression": "objective",
+            "meaning": "目標／目的",
+            "nuance": "goal よりも具体的で、ビジネス上の戦略的な目標として使われることが多い。"
+          },
+          {
+            "id": 98,
+            "level": 3,
+            "exam": "IELTS",
+            "sentence": "Technological advancement has a profound impact on society.",
+            "translation": "技術の進歩は社会に深い影響を与える。",
+            "expression": "profound",
+            "meaning": "深い／重大な",
+            "nuance": "deep よりも程度が甚だしく、影響などが広範囲で深刻な場合に使われる。"
+          },
+          {
+            "id": 99,
+            "level": 2,
+            "exam": "General",
+            "sentence": "I happened to see him at the grocery store.",
+            "translation": "食料品店でたまたま彼を見かけた。",
+            "expression": "happen to V",
+            "meaning": "たまたまVする",
+            "nuance": "偶然の出来事を表す非常に便利な日常表現。"
+          },
+          {
+            "id": 100,
+            "level": 3,
+            "exam": "TOEIC",
+            "sentence": "We need to ensure that all safety procedures are followed.",
+            "translation": "すべての安全手順が守られていることを確実にする必要がある。",
+            "expression": "ensure that S V",
+            "meaning": "〜であることを確実にする／保証する",
+            "nuance": "間違いがないように責任を持って「確実にする」という意味の重要ビジネス単語。"
+          },
+            {
+              "id": 101,
+              "level": 2,
+              "exam": "TOEIC",
+              "sentence": "The company decided to implement a hybrid work model.",
+              "translation": "その会社はハイブリッドワーク制度を導入することに決めた。",
+              "expression": "implement ～",
+              "meaning": "〜を導入する／実施する",
+              "nuance": "新しい制度、計画、ソフトウェアなどを「実行に移す」際に使われるフォーマルな語。"
+            },
+            {
+              "id": 102,
+              "level": 3,
+              "exam": "TOEFL",
+              "sentence": "Ancient civilizations were highly dependent on river systems.",
+              "translation": "古代文明は河川システムに強く依存していた。",
+              "expression": "be dependent on ～",
+              "meaning": "〜に依存している",
+              "nuance": "rely on ～ よりやや硬い表現。対義語は independent。"
+            },
+            {
+              "id": 103,
+              "level": 3,
+              "exam": "IELTS",
+              "sentence": "We must take immediate action to mitigate climate change.",
+              "translation": "気候変動を緩和するために、直ちに行動を起こさなければならない。",
+              "expression": "mitigate ～",
+              "meaning": "（苦痛・被害など）を和らげる／緩和する",
+              "nuance": "深刻な状況や悪影響を、努力して軽減させるという文脈で使われるアカデミック語。"
+            },
+            {
+              "id": 104,
+              "level": 2,
+              "exam": "General",
+              "sentence": "I'll look into the matter and get back to you.",
+              "translation": "その件を調査して、折り返しご連絡します。",
+              "expression": "look into ～",
+              "meaning": "〜を調査する",
+              "nuance": "investigate よりも日常的だが、ビジネスシーンでも「確認します」というニュアンスで多用される。"
+            },
+            {
+              "id": 105,
+              "level": 1,
+              "exam": "General",
+              "sentence": "Don't forget to back up your data.",
+              "translation": "データのバックアップを取るのを忘れないで。",
+              "expression": "back up ～",
+              "meaning": "〜を支援する／（データの）控えをとる",
+              "nuance": "IT用語としても、人を「支持・支援する」という意味でも重要。"
+            },
+            {
+              "id": 106,
+              "level": 2,
+              "exam": "TOEIC",
+              "sentence": "The hotel can accommodate up to 500 guests.",
+              "translation": "そのホテルは最大500名のゲストを収容できる。",
+              "expression": "accommodate ～",
+              "meaning": "〜を収容する／（要望など）に応える",
+              "nuance": "建物が人を収容するだけでなく、人のニーズに合わせるという意味もある重要語。"
+            },
+            {
+              "id": 107,
+              "level": 3,
+              "exam": "TOEFL",
+              "sentence": "The hypothesis was refuted by new evidence.",
+              "translation": "その仮説は新しい証拠によって論破された。",
+              "expression": "refute ～",
+              "meaning": "〜を論破する／反論する",
+              "nuance": "単なる反論ではなく、証拠をもって誤りを証明する強い表現。"
+            },
+            {
+              "id": 108,
+              "level": 4,
+              "exam": "IELTS",
+              "sentence": "Rapid urbanization poses a threat to local ecosystems.",
+              "translation": "急速な都市化は、地域の生態系に脅威をもたらしている。",
+              "expression": "pose a threat to ～",
+              "meaning": "〜に脅威を与える",
+              "nuance": "danger よりも「（問題などが）立ちはだかる」という重みがある表現。"
+            },
+            {
+              "id": 109,
+              "level": 2,
+              "exam": "General",
+              "sentence": "I'm tied up with work at the moment.",
+              "translation": "今、仕事で手が離せません。",
+              "expression": "be tied up with ～",
+              "meaning": "〜で忙しい／手が離せない",
+              "nuance": "busy よりも「縛り付けられている」というニュアンスが強い口語表現。"
+            },
+            {
+              "id": 110,
+              "level": 2,
+              "exam": "TOEIC",
+              "sentence": "Please refer to the attached document for details.",
+              "translation": "詳細は添付資料をご参照ください。",
+              "expression": "refer to ～",
+              "meaning": "〜を参照する／〜に言及する",
+              "nuance": "ビジネスメールの超定番表現。"
+            },
+            {
+              "id": 111,
+              "level": 3,
+              "exam": "TOEFL",
+              "sentence": "The experiment results were inconsistent with the theory.",
+              "translation": "実験結果はその理論と一致しなかった。",
+              "expression": "inconsistent with ～",
+              "meaning": "〜と矛盾する／不一致である",
+              "nuance": "consistent（一致している）の対義語。"
+            },
+            {
+              "id": 112,
+              "level": 3,
+              "exam": "IELTS",
+              "sentence": "The government should allocate more funds to education.",
+              "translation": "政府は教育により多くの予算を割り当てるべきだ。",
+              "expression": "allocate ～ to ...",
+              "meaning": "（資金・時間など）を〜に割り当てる",
+              "nuance": "限られた資源を特定の目的のために分配する際に使うフォーマル語。"
+            },
+            {
+              "id": 113,
+              "level": 1,
+              "exam": "General",
+              "sentence": "I've been looking forward to meeting you.",
+              "translation": "あなたにお会いするのを楽しみにしていました。",
+              "expression": "look forward to ～ing",
+              "meaning": "〜するのを楽しみに待つ",
+              "nuance": "to の後ろが動詞の原形ではなく動名詞になる点に注意。"
+            },
+            {
+              "id": 114,
+              "level": 2,
+              "exam": "TOEIC",
+              "sentence": "Our products are superior to those of our competitors.",
+              "translation": "当社の製品は他社のものより優れている。",
+              "expression": "be superior to ～",
+              "meaning": "〜より優れている",
+              "nuance": "better than よりもフォーマル。比較対象が to で導かれる。"
+            },
+            {
+              "id": 115,
+              "level": 3,
+              "exam": "TOEFL",
+              "sentence": "The species has evolved to survive in harsh conditions.",
+              "translation": "その種は過酷な環境で生き残るために進化した。",
+              "expression": "evolve",
+              "meaning": "進化する／発展する",
+              "nuance": "生物的な進化だけでなく、アイデアや技術が徐々に発展する際にも使う。"
+            },
+            {
+              "id": 116,
+              "level": 4,
+              "exam": "IELTS",
+              "sentence": "The problem stems from a lack of communication.",
+              "translation": "その問題はコミュニケーション不足に起因している。",
+              "expression": "stem from ～",
+              "meaning": "〜に由来する／起因する",
+              "nuance": "問題の根源（stem=茎）がどこにあるかを示す表現。"
+            },
+            {
+              "id": 117,
+              "level": 2,
+              "exam": "General",
+              "sentence": "I can't put up with his constant complaining.",
+              "translation": "彼の絶え間ない不平には我慢できない。",
+              "expression": "put up with ～",
+              "meaning": "〜を我慢する",
+              "nuance": "tolerate よりも口語的。不快な状況に耐えるニュアンス。"
+            },
+            {
+              "id": 118,
+              "level": 2,
+              "exam": "TOEIC",
+              "sentence": "The merger will take place early next year.",
+              "translation": "合併は来年初頭に行われる。",
+              "expression": "take place",
+              "meaning": "（行事・事件などが）行われる／開催される",
+              "nuance": "予定されていたことが実施される場合によく使われる。"
+            },
+            {
+              "id": 119,
+              "level": 3,
+              "exam": "TOEFL",
+              "sentence": "The artifact provides insight into ancient rituals.",
+              "translation": "その工芸品は古代の儀式に関する洞察を与えてくれる。",
+              "expression": "provide insight into ～",
+              "meaning": "〜を理解する手がかり（洞察）を与える",
+              "nuance": "物事の本質を深く理解させる、という意味で学術的に重宝される。"
+            },
+            {
+              "id": 120,
+              "level": 2,
+              "exam": "General",
+              "sentence": "Let's call it a day.",
+              "translation": "今日はここまでにしましょう。",
+              "expression": "call it a day",
+              "meaning": "（その日の）仕事を切り上げる",
+              "nuance": "キリの良いところで作業を終える際の決まり文句。"
+            },
+            {
+              "id": 121,
+              "level": 3,
+              "exam": "IELTS",
+              "sentence": "There is a positive correlation between exercise and mental health.",
+              "translation": "運動とメンタルヘルスの間には正の相関関係がある。",
+              "expression": "correlation",
+              "meaning": "相関関係",
+              "nuance": "二つの事象が互いに関連して変化することを示す学術用語。"
+            },
+            {
+              "id": 122,
+              "level": 2,
+              "exam": "TOEIC",
+              "sentence": "Please fill out the form and submit it by Friday.",
+              "translation": "書類に記入し、金曜日までに提出してください。",
+              "expression": "fill out ～",
+              "meaning": "（書類など）に記入する",
+              "nuance": "空欄を埋めるだけでなく、書類全体を完成させるイメージ。"
+            },
+            {
+              "id": 123,
+              "level": 3,
+              "exam": "TOEFL",
+              "sentence": "Carbon dioxide is a major contributor to global warming.",
+              "translation": "二酸化炭素は地球温暖化の主要な要因である。",
+              "expression": "contributor to ～",
+              "meaning": "〜の一因／貢献者",
+              "nuance": "良い意味での「貢献者」だけでなく、悪い結果の「原因」としても使われる。"
+            },
+            {
+              "id": 124,
+              "level": 2,
+              "exam": "General",
+              "sentence": "It's up to you.",
+              "translation": "それはあなた次第です。",
+              "expression": "be up to 人",
+              "meaning": "（人）次第である／（人）の責任である",
+              "nuance": "決定権が相手にあることを伝える日常表現。"
+            },
+            {
+              "id": 125,
+              "level": 3,
+              "exam": "TOEIC",
+              "sentence": "The company is committed to reducing its carbon footprint.",
+              "translation": "その会社は二酸化炭素排出量の削減に尽力している。",
+              "expression": "be committed to ～",
+              "meaning": "〜に熱心に取り組む／コミットする",
+              "nuance": "強い責任感を持って継続的に取り組む姿勢を示す。"
+            },
+            {
+              "id": 126,
+              "level": 4,
+              "exam": "IELTS",
+              "sentence": "The advantages of technology are often obscured by its drawbacks.",
+              "translation": "テクノロジーの利点は、その欠点によってしばしば見えにくくなる。",
+              "expression": "obscure ～",
+              "meaning": "〜を不明瞭にする／覆い隠す",
+              "nuance": "物理的に隠すだけでなく、理解しにくくするという抽象的な意味でも使われる。"
+            },
+            {
+              "id": 127,
+              "level": 2,
+              "exam": "General",
+              "sentence": "I ran into an old friend yesterday.",
+              "translation": "昨日、昔の友人にばったり会った。",
+              "expression": "run into ～",
+              "meaning": "〜に偶然会う",
+              "nuance": "meet by chance よりも口語的で一般的。"
+            },
+            {
+              "id": 128,
+              "level": 3,
+              "exam": "TOEFL",
+              "sentence": "This theory is grounded in extensive empirical research.",
+              "translation": "この理論は広範な実証研究に基づいている。",
+              "expression": "be grounded in ～",
+              "meaning": "〜に基づいている／根拠がある",
+              "nuance": "be based on より「しっかりと根を下ろしている」という重厚な響き。"
+            },
+            {
+              "id": 129,
+              "level": 2,
+              "exam": "TOEIC",
+              "sentence": "We need to streamline our production process.",
+              "translation": "生産工程を合理化（効率化）する必要がある。",
+              "expression": "streamline ～",
+              "meaning": "〜を合理化する／効率化する",
+              "nuance": "無駄を省いて流れを良くするイメージのビジネス用語。"
+            },
+            {
+              "id": 130,
+              "level": 3,
+              "exam": "IELTS",
+              "sentence": "The situation is further complicated by political instability.",
+              "translation": "状況は政治的不安によってさらに複雑になっている。",
+              "expression": "complicate ～",
+              "meaning": "〜を複雑にする",
+              "nuance": "物事を難しく、ややこしくさせること。"
+            },
+            {
+              "id": 131,
+              "level": 1,
+              "exam": "General",
+              "sentence": "I'll take a rain check.",
+              "translation": "またの機会にします（今回は見送ります）。",
+              "expression": "take a rain check",
+              "meaning": "（誘いなどに対して）またの機会にする",
+              "nuance": "誘いを断りつつ、将来の可能性を残す丁寧な断り方。"
+            },
+            {
+              "id": 132,
+              "level": 2,
+              "exam": "TOEIC",
+              "sentence": "The store is offering a 20% discount on all items.",
+              "translation": "その店は全品20%引きのキャンペーンを行っている。",
+              "expression": "discount on ～",
+              "meaning": "〜の割引",
+              "nuance": "前置詞が on であることに注目。"
+            },
+            {
+              "id": 133,
+              "level": 3,
+              "exam": "TOEFL",
+              "sentence": "The volcano has been dormant for centuries.",
+              "translation": "その火山は数世紀の間、活動を休止している（休火山）。",
+              "expression": "dormant",
+              "meaning": "休止状態の／眠っている",
+              "nuance": "生き物や火山が活動を止めている状態を指す学術語。"
+            },
+            {
+              "id": 134,
+              "level": 2,
+              "exam": "General",
+              "sentence": "Could you speak up a bit?",
+              "translation": "もう少し大きな声で話していただけますか？",
+              "expression": "speak up",
+              "meaning": "大きな声で話す",
+              "nuance": "声のボリュームを上げるように頼む際の標準的な表現。"
+            },
+            {
+              "id": 135,
+              "level": 3,
+              "exam": "IELTS",
+              "sentence": "Education plays a pivotal role in personal development.",
+              "translation": "教育は個人の成長において極めて重要な役割を果たす。",
+              "expression": "pivotal",
+              "meaning": "極めて重要な／中枢の",
+              "nuance": "important よりも「それが回転軸（pivot）になるほど重要」という強い意味。"
+            },
+            {
+              "id": 136,
+              "level": 2,
+              "exam": "TOEIC",
+              "sentence": "The flight was canceled due to a technical glitch.",
+              "translation": "その便は技術的な不具合により欠航となった。",
+              "expression": "glitch",
+              "meaning": "（機械などの）ちょっとした故障／不具合",
+              "nuance": "error よりも「一時的な技術的トラブル」を指す際によく使われる。"
+            },
+            {
+              "id": 137,
+              "level": 3,
+              "exam": "TOEFL",
+              "sentence": "The results deviate significantly from the norm.",
+              "translation": "その結果は標準から大きく逸脱している。",
+              "expression": "deviate from ～",
+              "meaning": "〜から逸脱する／それる",
+              "nuance": "本来の進路や平均的な数値から外れることを指す学術語。"
+            },
+            {
+              "id": 138,
+              "level": 2,
+              "exam": "General",
+              "sentence": "Keep me posted.",
+              "translation": "随時状況を知らせてください。",
+              "expression": "keep 人 posted",
+              "meaning": "（人）に最新情報を伝え続ける",
+              "nuance": "進捗があったらその都度教えてほしい、という時のカジュアルな定番。"
+            },
+            {
+              "id": 139,
+              "level": 4,
+              "exam": "IELTS",
+              "sentence": "The policy was designed to foster economic growth.",
+              "translation": "その政策は経済成長を促進するために設計された。",
+              "expression": "foster ～",
+              "meaning": "〜を促進する／育成する",
+              "nuance": "promote よりも「大切に育む、発展を助ける」というニュアンス。"
+            },
+            {
+              "id": 140,
+              "level": 2,
+              "exam": "TOEIC",
+              "sentence": "We've run out of printer toner.",
+              "translation": "プリンターのトナーを切らしてしまった。",
+              "expression": "run out of ～",
+              "meaning": "〜を使い果たす／切らす",
+              "nuance": "在庫や時間がなくなったときによく使われる。"
+            },
+            {
+              "id": 141,
+              "level": 3,
+              "exam": "TOEFL",
+              "sentence": "The fossil record is indispensable for understanding history.",
+              "translation": "化石の記録は歴史を理解するために不可欠である。",
+              "expression": "indispensable",
+              "meaning": "不可欠な／無しではいられない",
+              "nuance": "necessary よりもはるかに強く、代替不可能であることを示す。"
+            },
+            {
+              "id": 142,
+              "level": 1,
+              "exam": "General",
+              "sentence": "It doesn't make sense to me.",
+              "translation": "私には意味がわかりません（納得いかない）。",
+              "expression": "make sense",
+              "meaning": "意味が通る／理にかなっている",
+              "nuance": "論理的に理解できるかどうかを表す超重要フレーズ。"
+            },
+            {
+              "id": 143,
+              "level": 2,
+              "exam": "TOEIC",
+              "sentence": "The warranty covers parts and labor for one year.",
+              "translation": "保証は1年間、部品代と工賃をカバーします。",
+              "expression": "cover ～",
+              "meaning": "〜を（範囲に）含む／保証する",
+              "nuance": "「覆う」から派生して、費用や範囲を負担・網羅するという意味。"
+            },
+            {
+              "id": 144,
+              "level": 3,
+              "exam": "IELTS",
+              "sentence": "The media has a profound influence on public opinion.",
+              "translation": "メディアは世論に深い影響を与える。",
+              "expression": "profound",
+              "meaning": "深い／重大な",
+              "nuance": "影響や知識などが非常に深く、根本的であることを表す。"
+            },
+            {
+              "id": 145,
+              "level": 3,
+              "exam": "TOEFL",
+              "sentence": "The desert is home to many resilient plants.",
+              "translation": "砂漠には多くの回復力のある（生命力の強い）植物が自生している。",
+              "expression": "resilient",
+              "meaning": "回復力のある／弾力性のある",
+              "nuance": "困難やストレスからすぐに立ち直れる性質。現代で非常に好まれる単語。"
+            },
+            {
+              "id": 146,
+              "level": 2,
+              "exam": "General",
+              "sentence": "How are you getting along with your new boss?",
+              "translation": "新しい上司とはうまくやっていますか？",
+              "expression": "get along with ～",
+              "meaning": "〜とうまくやっていく",
+              "nuance": "人間関係の調和について話す際の標準的な口語。"
+            },
+            {
+              "id": 147,
+              "level": 3,
+              "exam": "TOEIC",
+              "sentence": "The board approved the budget proposal.",
+              "translation": "取締役会は予算案を承認した。",
+              "expression": "approve ～",
+              "meaning": "〜を承認する",
+              "nuance": "公式に「よし」とする、権限を持つ人が認めること。"
+            },
+            {
+              "id": 148,
+              "level": 4,
+              "exam": "IELTS",
+              "sentence": "Income inequality is a pressing issue in many countries.",
+              "translation": "所得格差は多くの国で差し迫った問題である。",
+              "expression": "pressing",
+              "meaning": "差し迫った／緊急の",
+              "nuance": "urgent よりも「重圧を感じさせるほど急を要する」ニュアンス。"
+            },
+            {
+              "id": 149,
+              "level": 3,
+              "exam": "TOEFL",
+              "sentence": "The summary omits several key details.",
+              "translation": "その要約はいくつかの重要な詳細を省いている。",
+              "expression": "omit ～",
+              "meaning": "〜を省く／除外する",
+              "nuance": "leave out よりもフォーマル。不注意で、または意図的に除外すること。"
+            },
+            {
+              "id": 150,
+              "level": 2,
+              "exam": "General",
+              "sentence": "I'm looking for a job in the tech industry.",
+              "translation": "テック業界での仕事を探しています。",
+              "expression": "look for ～",
+              "meaning": "〜を探す",
+              "nuance": "物だけでなく、機会や人を探す際にも使われる基本句動詞。"
+            },
+            {
+              "id": 151,
+              "level": 3,
+              "exam": "IELTS",
+              "sentence": "The benefits of tourism are undeniable.",
+              "translation": "観光の恩恵は否定できない。",
+              "expression": "undeniable",
+              "meaning": "否定できない／紛れもない",
+              "nuance": "あまりに明らかで、誰も反対できないという強調表現。"
+            },
+            {
+              "id": 152,
+              "level": 2,
+              "exam": "TOEIC",
+              "sentence": "Our sales representative will visit your office tomorrow.",
+              "translation": "弊社の営業担当者が明日、貴社に伺います。",
+              "expression": "representative",
+              "meaning": "担当者／代表者",
+              "nuance": "営業担当を sales rep と略すこともある。会社を代表して動く人。"
+            },
+            {
+              "id": 153,
+              "level": 3,
+              "exam": "TOEFL",
+              "sentence": "The chemicals can contaminate the groundwater.",
+              "translation": "その化学物質は地下水を汚染する可能性がある。",
+              "expression": "contaminate ～",
+              "meaning": "〜を汚染する",
+              "nuance": "pollute よりも「不純物が混じって使えなくする、有害にする」という科学的なニュアンス。"
+            },
+            {
+              "id": 154,
+              "level": 1,
+              "exam": "General",
+              "sentence": "I'll think it over and let you know.",
+              "translation": "よく考えてからお知らせします。",
+              "expression": "think ～ over",
+              "meaning": "〜をじっくり考える／検討する",
+              "nuance": "即答せずに時間をかけて熟考するニュアンス。"
+            },
+            {
+              "id": 155,
+              "level": 3,
+              "exam": "IELTS",
+              "sentence": "This measure aims to curb the spread of the virus.",
+              "translation": "この措置はウイルスの拡散を抑制することを目的としている。",
+              "expression": "curb ～",
+              "meaning": "〜を抑制する／抑える",
+              "nuance": "歩道の縁石（curb）から。行き過ぎを抑える、制限するという意味。"
+            },
+            {
+              "id": 156,
+              "level": 2,
+              "exam": "TOEIC",
+              "sentence": "The office will be closed until further notice.",
+              "translation": "追って通知があるまで、オフィスは閉鎖されます。",
+              "expression": "until further notice",
+              "meaning": "追って通知があるまで",
+              "nuance": "ビジネス告知の超定番セットフレーズ。"
+            },
+            {
+              "id": 157,
+              "level": 3,
+              "exam": "TOEFL",
+              "sentence": "The study highlights the correlation between sleep and productivity.",
+              "translation": "その研究は睡眠と生産性の相関関係を強調している。",
+              "expression": "highlight ～",
+              "meaning": "〜を目立たせる／強調する",
+              "nuance": "重要なポイントに光を当てるイメージ。"
+            },
+            {
+              "id": 158,
+              "level": 2,
+              "exam": "General",
+              "sentence": "I messed up the interview.",
+              "translation": "面接を台無しにしてしまった（大失敗した）。",
+              "expression": "mess up ～",
+              "meaning": "〜を台無しにする／失敗する",
+              "nuance": "make a mistake よりも「ぐちゃぐちゃにしてしまった」というカジュアルな後悔表現。"
+            },
+            {
+              "id": 159,
+              "level": 3,
+              "exam": "IELTS",
+              "sentence": "Wealth should be distributed more equitably.",
+              "translation": "富はより公平に分配されるべきだ。",
+              "expression": "equitably",
+              "meaning": "公平に／正当に",
+              "nuance": "equally（等しく）よりも「正義や公平性に基づいて適切に」というニュアンス。"
+            },
+            {
+              "id": 160,
+              "level": 2,
+              "exam": "TOEIC",
+              "sentence": "The new policy will take effect starting next month.",
+              "translation": "新しい方針は来月から実施（発効）されます。",
+              "expression": "take effect",
+              "meaning": "（法律などが）効力を発する／実施される",
+              "nuance": "ルールや薬などが実際に働き始めること。"
+            },
+            {
+              "id": 161,
+              "level": 3,
+              "exam": "TOEFL",
+              "sentence": "The enzyme acts as a catalyst for the reaction.",
+              "translation": "その酵素は反応の触媒として機能する。",
+              "expression": "catalyst",
+              "meaning": "触媒／きっかけ",
+              "nuance": "化学用語だが、変化を促す「きっかけ」という意味で比喩的にも使われる。"
+            },
+            {
+              "id": 162,
+              "level": 1,
+              "exam": "General",
+              "sentence": "It's a piece of cake.",
+              "translation": "朝飯前（とても簡単）だよ。",
+              "expression": "a piece of cake",
+              "meaning": "非常に簡単なこと",
+              "nuance": "easy よりも余裕を感じさせるイディオム。"
+            },
+            {
+              "id": 163,
+              "level": 3,
+              "exam": "IELTS",
+              "sentence": "Governments must incentivize the use of renewable energy.",
+              "translation": "政府は再生可能エネルギーの利用を奨励（動機付け）すべきだ。",
+              "expression": "incentivize ～",
+              "meaning": "〜を奨励する／やる気を出させる",
+              "nuance": "補助金などの「インセンティブ」を与えて、行動を促すこと。"
+            },
+            {
+              "id": 164,
+              "level": 2,
+              "exam": "TOEIC",
+              "sentence": "The merger has been put on hold for now.",
+              "translation": "合併の話は今のところ保留になっている。",
+              "expression": "put ～ on hold",
+              "meaning": "〜を保留にする／中断する",
+              "nuance": "完全にやめるのではなく、一時的にストップさせる。"
+            },
+            {
+              "id": 165,
+              "level": 3,
+              "exam": "TOEFL",
+              "sentence": "The data confirms our initial findings.",
+              "translation": "そのデータは、私たちの最初の発見を裏付けている。",
+              "expression": "confirm ～",
+              "meaning": "〜を確認する／裏付ける",
+              "nuance": "確実であることを証明すること。予約などの確認にも使う。"
+            },
+            {
+              "id": 166,
+              "level": 2,
+              "exam": "General",
+              "sentence": "I'm running out of patience.",
+              "translation": "我慢の限界だ（忍耐が尽きかけている）。",
+              "expression": "run out of ～",
+              "meaning": "〜を使い果たす",
+              "nuance": "物だけでなく、忍耐や時間など抽象的なものにも使える。"
+            },
+            {
+              "id": 167,
+              "level": 4,
+              "exam": "IELTS",
+              "sentence": "This discovery will revolutionize the medical field.",
+              "translation": "この発見は医療分野に革命をもたらすだろう。",
+              "expression": "revolutionize ～",
+              "meaning": "〜に革命をもたらす",
+              "nuance": "根本から劇的に変えてしまうという強い動詞。"
+            },
+            {
+              "id": 168,
+              "level": 2,
+              "exam": "TOEIC",
+              "sentence": "The technician is checking for any discrepancies in the logs.",
+              "translation": "技術者はログに不一致（矛盾）がないか確認している。",
+              "expression": "discrepancy",
+              "meaning": "不一致／矛盾",
+              "nuance": "本来同じはずの数値や情報の間の「食い違い」。"
+            },
+            {
+              "id": 169,
+              "level": 3,
+              "exam": "TOEFL",
+              "sentence": "Many species migrated south to escape the cold.",
+              "translation": "多くの種が寒さを逃れるために南へ移動した。",
+              "expression": "migrate",
+              "meaning": "（鳥や動物が）渡る／（人が）移住する",
+              "nuance": "季節的または恒久的に場所を変えること。"
+            },
+            {
+              "id": 170,
+              "level": 1,
+              "exam": "General",
+              "sentence": "Hang in there!",
+              "translation": "（苦境でも）頑張れ！／持ちこたえろ！",
+              "expression": "Hang in there",
+              "meaning": "頑張り続ける／踏みとどまる",
+              "nuance": "辛い状況にいる人を励ます決まり文句。"
+            },
+            {
+              "id": 171,
+              "level": 3,
+              "exam": "IELTS",
+              "sentence": "The report underscores the importance of early intervention.",
+              "translation": "その報告書は早期介入の重要性を強調している。",
+              "expression": "underscore ～",
+              "meaning": "〜を強調する／下線を引く",
+              "nuance": "highlight よりも「（事実を）裏打ちして強調する」響きがある。"
+            },
+            {
+              "id": 172,
+              "level": 2,
+              "exam": "TOEIC",
+              "sentence": "We need to renew our subscription before it expires.",
+              "translation": "有効期限が切れる前にサブスクリプションを更新する必要がある。",
+              "expression": "expire",
+              "meaning": "期限が切れる",
+              "nuance": "契約、食品、パスポートなどが無効になること。"
+            },
+            {
+              "id": 173,
+              "level": 3,
+              "exam": "TOEFL",
+              "sentence": "The forest was depleted by excessive logging.",
+              "translation": "過度の伐採により森林が激減した。",
+              "expression": "deplete ～",
+              "meaning": "〜を使い果たす／激減させる",
+              "nuance": "資源や蓄えを空っぽにする、という意味で環境問題などで多用される。"
+            },
+            {
+              "id": 174,
+              "level": 2,
+              "exam": "General",
+              "sentence": "I'm not in the mood for Italian food.",
+              "translation": "今はイタリアンの気分じゃないんだ。",
+              "expression": "be in the mood for ～",
+              "meaning": "〜したい気分である",
+              "nuance": "その時の気分（mood）に合うかどうかを伝える。"
+            },
+            {
+              "id": 175,
+              "level": 3,
+              "exam": "IELTS",
+              "sentence": "Consumer behavior is highly unpredictable.",
+              "translation": "消費者行動は極めて予測不可能である。",
+              "expression": "unpredictable",
+              "meaning": "予測不可能な",
+              "nuance": "先が読めない、変化が激しいこと。"
+            },
+            {
+              "id": 176,
+              "level": 2,
+              "exam": "TOEIC",
+              "sentence": "Can you fill in for me while I'm on vacation?",
+              "translation": "休暇中、私の代わり（代役）を務めてくれますか？",
+              "expression": "fill in for 人",
+              "meaning": "（人）の代わりを務める",
+              "nuance": "一時的に誰かの職務や役割を穴埋めする。"
+            },
+            {
+              "id": 177,
+              "level": 3,
+              "exam": "TOEFL",
+              "sentence": "The theory is consistent with existing evidence.",
+              "translation": "その理論は既存の証拠と一致している。",
+              "expression": "consistent with ～",
+              "meaning": "〜と一致している／矛盾しない",
+              "nuance": "前後の筋が通っていること。"
+            },
+            {
+              "id": 178,
+              "level": 2,
+              "exam": "General",
+              "sentence": "I need to brush up on my English before my trip.",
+              "translation": "旅行の前に英語をやり直す（磨き直す）必要がある。",
+              "expression": "brush up on ～",
+              "meaning": "〜を磨き直す／やり直す",
+              "nuance": "以前持っていたスキルや知識を、再度使える状態にすること。"
+            },
+            {
+              "id": 179,
+              "level": 3,
+              "exam": "IELTS",
+              "sentence": "The proposal was rejected on the grounds of high costs.",
+              "translation": "その提案は高コストを理由に却下された。",
+              "expression": "on the grounds of ～",
+              "meaning": "〜という理由で／根拠に基づいて",
+              "nuance": "because of よりも「正当な根拠」を強調するフォーマル表現。"
+            },
+            {
+              "id": 180,
+              "level": 2,
+              "exam": "TOEIC",
+              "sentence": "We offer a wide range of financial services.",
+              "translation": "当社は幅広い金融サービスを提供しています。",
+              "expression": "a wide range of ～",
+              "meaning": "広範囲の〜／多種多様な〜",
+              "nuance": "種類が豊富であることを表すビジネス定番表現。"
+            },
+            {
+              "id": 181,
+              "level": 3,
+              "exam": "TOEFL",
+              "sentence": "Heat can accelerate the chemical reaction.",
+              "translation": "熱は化学反応を加速させる可能性がある。",
+              "expression": "accelerate ～",
+              "meaning": "〜を加速させる／速める",
+              "nuance": "スピードを上げるだけでなく、事態の進行を早める際にも使う。"
+            },
+            {
+              "id": 182,
+              "level": 1,
+              "exam": "General",
+              "sentence": "Keep in mind that tomorrow is a holiday.",
+              "translation": "明日は休日であることを忘れないで（心に留めておいて）。",
+              "expression": "keep in mind",
+              "meaning": "〜を覚えている／心に留める",
+              "nuance": "remember よりも「考慮に入れる」に近いニュアンス。"
+            },
+            {
+              "id": 183,
+              "level": 3,
+              "exam": "IELTS",
+              "sentence": "Sustainable development is the key to our future.",
+              "translation": "持続可能な開発が私たちの未来への鍵である。",
+              "expression": "sustainable",
+              "meaning": "持続可能な",
+              "nuance": "環境を壊さず、長期的に維持できること（SDGsのS）。"
+            },
+            {
+              "id": 184,
+              "level": 2,
+              "exam": "TOEIC",
+              "sentence": "The company is seeking a qualified candidate for the position.",
+              "translation": "その会社はその職務に適した候補者を探している。",
+              "expression": "qualified",
+              "meaning": "資格のある／適任の",
+              "nuance": "単に「できる」だけでなく、必要な条件やスキルを満たしていること。"
+            },
+            {
+              "id": 185,
+              "level": 3,
+              "exam": "TOEFL",
+              "sentence": "The ocean depth remains largely unexplored.",
+              "translation": "深海は大部分がいまだに未踏（未探索）のままである。",
+              "expression": "unexplored",
+              "meaning": "未踏の／探検されていない",
+              "nuance": "未知の領域について語る際の学術語。"
+            },
+            {
+              "id": 186,
+              "level": 2,
+              "exam": "General",
+              "sentence": "It's hard to tell the difference between the two.",
+              "translation": "その二つの違いを見分けるのは難しい。",
+              "expression": "tell the difference",
+              "meaning": "違いを見分ける／識別する",
+              "nuance": "know the difference よりも「判断して口に出せる」ニュアンス。"
+            },
+            {
+              "id": 187,
+              "level": 3,
+              "exam": "IELTS",
+              "sentence": "The government is trying to alleviate poverty.",
+              "translation": "政府は貧困を緩和しようとしている。",
+              "expression": "alleviate ～",
+              "meaning": "（苦痛・問題など）を軽減する",
+              "nuance": "mitigate と似ているが、痛みや重荷を「楽にする」響きが強い。"
+            },
+            {
+              "id": 188,
+              "level": 2,
+              "exam": "TOEIC",
+              "sentence": "Please refrain from using mobile phones in the library.",
+              "translation": "図書館内での携帯電話の使用はお控えください。",
+              "expression": "refrain from ～ing",
+              "meaning": "〜を控える／やめる",
+              "nuance": "don't use よりも丁寧で公的な禁止表現。"
+            },
+            {
+              "id": 189,
+              "level": 3,
+              "exam": "TOEFL",
+              "sentence": "The ruins shed light on the lifestyle of ancient people.",
+              "translation": "その遺跡は古代の人々の生活様式を明らかにしている。",
+              "expression": "shed light on ～",
+              "meaning": "〜を明らかにする／光を当てる",
+              "nuance": "謎だったことに解明の手がかりを与える比喩表現。"
+            },
+            {
+              "id": 190,
+              "level": 1,
+              "exam": "General",
+              "sentence": "What are you up to this weekend?",
+              "translation": "今週末は何をする予定？",
+              "expression": "be up to ～",
+              "meaning": "〜を企んでいる／〜をしている",
+              "nuance": "親しい間柄で「何してるの？」と聞く時の超定番。"
+            },
+            {
+              "id": 191,
+              "level": 3,
+              "exam": "IELTS",
+              "sentence": "The findings are applicable to a wide range of fields.",
+              "translation": "その発見は幅広い分野に応用可能である。",
+              "expression": "applicable to ～",
+              "meaning": "〜に適用できる／当てはまる",
+              "nuance": "理論や規則が特定のケースに使えること。"
+            },
+            {
+              "id": 192,
+              "level": 2,
+              "exam": "TOEIC",
+              "sentence": "The manager oversees the daily operations of the store.",
+              "translation": "マネージャーは店の日常業務を監督している。",
+              "expression": "oversee ～",
+              "meaning": "〜を監督する／監視する",
+              "nuance": "supervise とほぼ同じ。全体を見渡して管理するイメージ。"
+            },
+            {
+              "id": 193,
+              "level": 3,
+              "exam": "TOEFL",
+              "sentence": "Volcanic eruptions can trigger climate shifts.",
+              "translation": "火山の噴火は気候の変動を引き起こす可能性がある。",
+              "expression": "trigger ～",
+              "meaning": "〜を引き起こす／きっかけとなる",
+              "nuance": "銃の引き金（trigger）から。ある出来事が連鎖反応を始めること。"
+            },
+            {
+              "id": 194,
+              "level": 2,
+              "exam": "General",
+              "sentence": "I'm looking forward to your reply.",
+              "translation": "お返事をお待ちしております。",
+              "expression": "look forward to ～",
+              "meaning": "〜を楽しみに待つ",
+              "nuance": "ビジネスメールの結びの定番。to の後は名詞。"
+            },
+            {
+              "id": 195,
+              "level": 4,
+              "exam": "IELTS",
+              "sentence": "The city's infrastructure is in dire need of repair.",
+              "translation": "その都市のインフラは、切実に修理を必要としている。",
+              "expression": "in dire need of ～",
+              "meaning": "〜をひどく必要としている",
+              "nuance": "非常に深刻で差し迫った必要性を表す強調表現。"
+            },
+            {
+              "id": 196,
+              "level": 2,
+              "exam": "TOEIC",
+              "sentence": "The client requested a revised version of the contract.",
+              "translation": "クライアントは契約書の修正版を要求した。",
+              "expression": "revise ～",
+              "meaning": "〜を修正する／改訂する",
+              "nuance": "内容をより良く、あるいは最新の状態に直すこと。"
+            },
+            {
+              "id": 197,
+              "level": 3,
+              "exam": "TOEFL",
+              "sentence": "The data set contains several anomalies.",
+              "translation": "そのデータセットにはいくつかの異常値（例外）が含まれている。",
+              "expression": "anomaly",
+              "meaning": "例外／異常／変則",
+              "nuance": "通常とは異なる、説明がつかない特異なこと。"
+            },
+            {
+              "id": 198,
+              "level": 2,
+              "exam": "General",
+              "sentence": "It's better to play it safe.",
+              "translation": "大事を取ったほうがいい（慎重にいくのが一番だ）。",
+              "expression": "play it safe",
+              "meaning": "大事を取る／無難にいく",
+              "nuance": "リスクを避け、確実な道を選ぶ際の慣用句。"
+            },
+            {
+              "id": 199,
+              "level": 3,
+              "exam": "IELTS",
+              "sentence": "The internet has transformed the way we communicate.",
+              "translation": "インターネットは私たちのコミュニケーション方法を一変させた。",
+              "expression": "transform ～",
+              "meaning": "〜を一変させる／変形させる",
+              "nuance": "単なる変化（change）ではなく、形や性質を劇的に変えること。"
+            },
+            {
+              "id": 200,
+              "level": 2,
+              "exam": "TOEIC",
+              "sentence": "The sales goals were attained through teamwork.",
+              "translation": "売上目標はチームワークによって達成された。",
+              "expression": "attain ～",
+              "meaning": "（目標など）を達成する／到達する",
+              "nuance": "achieve と似ているが、努力の末に高いレベルに到達する響き。"
+            }
+      ]

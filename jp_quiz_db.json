@@ -1,0 +1,523 @@
+[
+  {
+    "id": 1,
+    "level": 5,
+    "sentence": "毎日、漢字を継続して勉強しています。",
+    "translation": "I study kanji continuously every day.",
+    "expressions": [
+      {
+        "expression": "毎日",
+        "meaning": "Every day (まいにち)",
+        "nuance": "Indicates a recurring daily habit or state. It emphasizes the frequency of an action performed every single day without exception."
+      },
+      {
+        "expression": "漢字",
+        "meaning": "Kanji (かんじ)",
+        "nuance": "The logographic characters used in Japanese. Learning them involves understanding both the 'onyomi' (Chinese-derived) and 'kunyomi' (native Japanese) readings."
+      },
+      {
+        "expression": "継続",
+        "meaning": "Continuation / Continuity (けいぞく)",
+        "nuance": "Focuses on the uninterrupted flow of an action. In Japanese culture, it is often paired with the idea that 'consistency is power' (keizoku wa chikara nari)."
+      },
+      {
+        "expression": "勉強",
+        "meaning": "Study (べんきょう)",
+        "nuance": "While it usually means academic learning, the kanji literally mean 'forcing one's will,' reflecting the effort and discipline required to learn."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "level": 4,
+    "sentence": "仕事が忙しくて、昼休みを返上して働いた。",
+    "translation": "I was so busy that I gave up my lunch break to work.",
+    "expressions": [
+      {
+        "expression": "仕事",
+        "meaning": "Work / Job (しごと)",
+        "nuance": "A broad term for professional duties. It can refer to a specific task or one's overall career."
+      },
+      {
+        "expression": "忙しい",
+        "meaning": "Busy (いそがしい)",
+        "nuance": "Describes having no free time due to many tasks. The kanji is composed of 'heart' and 'lost,' suggesting one is so busy they lose their peace of mind."
+      },
+      {
+        "expression": "昼休み",
+        "meaning": "Lunch break (ひるやすみ)",
+        "nuance": "Specifically refers to the midday break. In Japan, this is often a strictly timed hour (e.g., 12:00 to 13:00)."
+      },
+      {
+        "expression": "返上",
+        "meaning": "Giving up / Forfeiting (へんじょう)",
+        "nuance": "A formal term used when you 'return' or give up a right, holiday, or trophy. In a work context, it implies sacrificing personal time for the sake of the job."
+      },
+      {
+        "expression": "働く",
+        "meaning": "To work (はたらく)",
+        "nuance": "The physical or mental act of labor. It is often used to describe the action of working for a company or earning a living."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "level": 3,
+    "sentence": "この本の内容は、初心者には高度すぎる。",
+    "translation": "The content of this book is too advanced for beginners.",
+    "expressions": [
+      {
+        "expression": "本",
+        "meaning": "Book (ほん)",
+        "nuance": "A general term for any bound printed material. It can also mean 'origin' or 'main' in other contexts."
+      },
+      {
+        "expression": "内容",
+        "meaning": "Content (ないよう)",
+        "nuance": "Refers to the internal substance or details of something, such as a story, a speech, or a package."
+      },
+      {
+        "expression": "初心者",
+        "meaning": "Beginner (しょしんしゃ)",
+        "nuance": "Literally 'person of the first heart.' It refers to someone new to a field who still has their initial curiosity and lack of experience."
+      },
+      {
+        "expression": "高度",
+        "meaning": "Advanced / High-level (こうど)",
+        "nuance": "Describes something that is sophisticated or complex. It's used for technical skills, academic levels, or advanced technology."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "level": 2,
+    "sentence": "突然の雨に降られたが、幸い傘を持っていた。",
+    "translation": "It rained suddenly, but fortunately, I had an umbrella.",
+    "expressions": [
+      {
+        "expression": "突然",
+        "meaning": "Suddenly (とつぜん)",
+        "nuance": "Describes an event that happens without warning. It often has a slightly surprising or jarring nuance."
+      },
+      {
+        "expression": "雨",
+        "meaning": "Rain (あめ)",
+        "nuance": "Natural precipitation. In Japanese literature, it often carries various moods from sadness to refreshing change."
+      },
+      {
+        "expression": "降る",
+        "meaning": "To fall (rain/snow) (ふる)",
+        "nuance": "Used specifically for weather falling from the sky. The passive form 'furareru' implies being inconvenienced by the rain."
+      },
+      {
+        "expression": "幸い",
+        "meaning": "Fortunately / Luckily (さいわい)",
+        "nuance": "A formal way to express luck. It suggests that despite a potentially bad situation, a favorable outcome occurred."
+      },
+      {
+        "expression": "傘",
+        "meaning": "Umbrella (かさ)",
+        "nuance": "A common object in Japan, where clear plastic umbrellas (vinyl umbrellas) are ubiquitous due to sudden rain."
+      },
+      {
+        "expression": "持つ",
+        "meaning": "To hold / carry / possess (もつ)",
+        "nuance": "Refers to physical possession or having something with you at that moment."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "level": 3,
+    "sentence": "彼は、いつも冷静に判断を下す。",
+    "translation": "He always makes judgments calmly.",
+    "expressions": [
+      {
+        "expression": "彼",
+        "meaning": "He / Him (かれ)",
+        "nuance": "Third-person male pronoun. Can also mean 'boyfriend' depending on the context."
+      },
+      {
+        "expression": "冷静",
+        "meaning": "Calm / Composed (れいせい)",
+        "nuance": "Describes a state where one's mind is 'cold' (logical) and 'quiet,' not swayed by emotions or panic."
+      },
+      {
+        "expression": "判断",
+        "meaning": "Judgment / Decision (はんだん)",
+        "nuance": "The act of discerning the truth or making a choice based on logic and evidence."
+      },
+      {
+        "expression": "下す",
+        "meaning": "To hand down / To make (a decision) (くだす)",
+        "nuance": "Often used for official decisions, verdicts, or orders. It implies a sense of authority or finality."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "level": 2,
+    "sentence": "今回のプロジェクトは、チーム全員の協力が不可欠だ。",
+    "translation": "Cooperation from the whole team is essential for this project.",
+    "expressions": [
+      {
+        "expression": "今回",
+        "meaning": "This time (こんかい)",
+        "nuance": "Refers specifically to the current occasion or the present instance."
+      },
+      {
+        "expression": "全員",
+        "meaning": "Everyone / All members (ぜんいん)",
+        "nuance": "Emphasizes that not a single person is excluded from the group mentioned."
+      },
+      {
+        "expression": "協力",
+        "meaning": "Cooperation (きょうりょく)",
+        "nuance": "Literally 'combining strengths.' It’s the act of people working together toward a common objective."
+      },
+      {
+        "expression": "不可欠",
+        "meaning": "Essential / Indispensable (ふかけつ)",
+        "nuance": "Stronger than 'necessary.' It means something is so important that the goal cannot be achieved without it."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "level": 4,
+    "sentence": "最近、駅前に新しいビルが完成した。",
+    "translation": "A new building was recently completed in front of the station.",
+    "expressions": [
+      {
+        "expression": "最近",
+        "meaning": "Recently (さいきん)",
+        "nuance": "Refers to a period from the near past up to the present."
+      },
+      {
+        "expression": "駅前",
+        "meaning": "In front of the station (えきまえ)",
+        "nuance": "A very common term in Japan, as station areas are usually the hub of commercial and social life."
+      },
+      {
+        "expression": "新しい",
+        "meaning": "New (あたらしい)",
+        "nuance": "Refers to something that didn't exist before or has been recently created/bought."
+      },
+      {
+        "expression": "完成",
+        "meaning": "Completion (かんせい)",
+        "nuance": "Used when something is fully finished and ready for use, especially for buildings, projects, or works of art."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "level": 3,
+    "sentence": "将来の目標に向かって、着実に進んでいる。",
+    "translation": "I am making steady progress toward my future goals.",
+    "expressions": [
+      {
+        "expression": "将来",
+        "meaning": "Future (しょうらい)",
+        "nuance": "Usually refers to a person's own future or a specific foreseeable future, rather than the abstract concept of 'the future' (mirai)."
+      },
+      {
+        "expression": "目標",
+        "meaning": "Goal / Target (もくひょう)",
+        "nuance": "A specific, measurable point one aims to reach. It can be a long-term life goal or a short-term task."
+      },
+      {
+        "expression": "向かう",
+        "meaning": "To head toward (むかう)",
+        "nuance": "Describes movement or intention directed at a specific destination or goal."
+      },
+      {
+        "expression": "着実",
+        "meaning": "Steady / Sound (ちゃくじつ)",
+        "nuance": "Describes a reliable and sure way of doing things. It implies avoiding risks in favor of guaranteed progress."
+      },
+      {
+        "expression": "進む",
+        "meaning": "To advance / To proceed (すすむ)",
+        "nuance": "General word for moving forward, either physically or in terms of progress on a project."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "level": 2,
+    "sentence": "日本の文化に興味を持つ外国人が増えている。",
+    "translation": "The number of foreigners who have an interest in Japanese culture is increasing.",
+    "expressions": [
+      {
+        "expression": "日本",
+        "meaning": "Japan (にほん)",
+        "nuance": "Literally 'Origin of the Sun.' The native name for the country."
+      },
+      {
+        "expression": "文化",
+        "meaning": "Culture (ぶんか)",
+        "nuance": "Refers to the shared customs, arts, and social behaviors of a particular group or nation."
+      },
+      {
+        "expression": "興味",
+        "meaning": "Interest / Curiosity (きょうみ)",
+        "nuance": "A state of wanting to know more about something. It often implies an intellectual or hobby-related attraction."
+      },
+      {
+        "expression": "外国人",
+        "meaning": "Foreigner (がいこくじん)",
+        "nuance": "A person from a country other than Japan. Often abbreviated to 'gaikoku' in casual conversation, though 'gaikokujin' is the correct full term."
+      },
+      {
+        "expression": "増える",
+        "meaning": "To increase (ふえる)",
+        "nuance": "Used when the quantity or number of something becomes greater."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "level": 3,
+    "sentence": "分からない言葉は、すぐに辞書で検索する。",
+    "translation": "I immediately search for words I don't know in a dictionary.",
+    "expressions": [
+      {
+        "expression": "分かる",
+        "meaning": "To understand (わかる)",
+        "nuance": "To comprehend or grasp the meaning of something. Here used in the negative form (wakaranai)."
+      },
+      {
+        "expression": "言葉",
+        "meaning": "Word / Language (ことば)",
+        "nuance": "Can refer to a single vocabulary item, a phrase, or language in general."
+      },
+      {
+        "expression": "辞書",
+        "meaning": "Dictionary (じしょ)",
+        "nuance": "A reference book or app. In Japan, electronic dictionaries (denshi jisho) used to be very popular, though smartphones are now the norm."
+      },
+      {
+        "expression": "検索",
+        "meaning": "Search / Look up (けんさく)",
+        "nuance": "Specifically refers to searching through a database, index, or the internet to find specific information."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "level": 3,
+    "sentence": "彼の説明はとても明確だった。",
+    "translation": "His explanation was very clear.",
+    "expressions": [
+      { "expression": "説明", "meaning": "Explanation (せつめい)", "nuance": "The act of making something clear or understandable to others by providing details." },
+      { "expression": "明確", "meaning": "Clear / Distinct (めいかく)", "nuance": "Describes something that is logical, well-defined, and leaves no room for confusion or ambiguity." }
+    ]
+  },
+  {
+    "id": 12,
+    "level": 2,
+    "sentence": "問題の原因を調べる必要がある。",
+    "translation": "We need to investigate the cause of the problem.",
+    "expressions": [
+      { "expression": "問題", "meaning": "Problem / Issue (もんだい)", "nuance": "A situation that is unsatisfactory and needs to be resolved. Also used for 'questions' on a test." },
+      { "expression": "原因", "meaning": "Cause / Origin (げんいん)", "nuance": "The specific factor or event that leads to a certain result, often a negative one." },
+      { "expression": "調べる", "meaning": "To investigate / To look into (しらべる)", "nuance": "The act of searching for facts, checking information, or researching a topic." },
+      { "expression": "必要", "meaning": "Necessary / Need (ひつよう)", "nuance": "Indicates that something is required for a certain purpose." }
+    ]
+  },
+  {
+    "id": 13,
+    "level": 4,
+    "sentence": "彼は常に責任を持って行動する。",
+    "translation": "He always acts responsibly.",
+    "expressions": [
+      { "expression": "常に", "meaning": "Always / Constantly (つねに)", "nuance": "A formal way to say 'always.' It implies a steady, unchanging state or habit." },
+      { "expression": "責任", "meaning": "Responsibility (せきにん)", "nuance": "The duty to deal with something or the state of being accountable for one's actions." },
+      { "expression": "行動", "meaning": "Action / Behavior (こうどう)", "nuance": "The process of doing something or the way a person behaves in a given situation." }
+    ]
+  },
+  {
+    "id": 14,
+    "level": 3,
+    "sentence": "この制度にはいくつかの課題がある。",
+    "translation": "There are several issues with this system.",
+    "expressions": [
+      { "expression": "制度", "meaning": "System / Institution (せいど)", "nuance": "A set of rules or an established organization that governs how something is done in society." },
+      { "expression": "課題", "meaning": "Issue / Challenge / Task (かだい)", "nuance": "In a business or academic context, this refers to problems that need to be overcome or specific tasks to be completed." }
+    ]
+  },
+  {
+    "id": 15,
+    "level": 2,
+    "sentence": "時間を有効に使いましょう。",
+    "translation": "Let's use our time effectively.",
+    "expressions": [
+      { "expression": "時間", "meaning": "Time (じかん)", "nuance": "Can refer to a specific point in time or a duration/period of time." },
+      { "expression": "有効", "meaning": "Effective / Valid (ゆうこう)", "nuance": "Describes using something in a way that produces the best possible result. Also used for 'valid' tickets or contracts." },
+      { "expression": "使う", "meaning": "To use (つかう)", "nuance": "To utilize an object, tool, or even time/effort for a purpose." }
+    ]
+  },
+  {
+    "id": 16,
+    "level": 4,
+    "sentence": "この政策は経済に大きな影響を与える。",
+    "translation": "This policy will have a significant impact on the economy.",
+    "expressions": [
+      { "expression": "政策", "meaning": "Policy (せいさく)", "nuance": "A formal plan or course of action adopted by a government or organization." },
+      { "expression": "経済", "meaning": "Economy (けいざい)", "nuance": "The system of production, distribution, and consumption of goods and services." },
+      { "expression": "大きい", "meaning": "Big / Great (おおきい)", "nuance": "Refers to physical size or the degree/extent of something." },
+      { "expression": "影響", "meaning": "Influence / Impact (えいきょう)", "nuance": "The power to have an effect on people or things. The kanji mean 'shadow' and 'echo,' suggesting a lingering effect." },
+      { "expression": "与える", "meaning": "To give / To provide (あたえる)", "nuance": "To give something (often intangible like impact, pain, or an opportunity) to someone else." }
+    ]
+  },
+  {
+    "id": 17,
+    "level": 3,
+    "sentence": "彼は新しい方法を提案した。",
+    "translation": "He proposed a new method.",
+    "expressions": [
+      { "expression": "方法", "meaning": "Method / Way (ほうほう)", "nuance": "A particular procedure or manner of doing something." },
+      { "expression": "提案", "meaning": "Proposal / Suggestion (ていあん)", "nuance": "Formally presenting an idea or plan for consideration by others." }
+    ]
+  },
+  {
+    "id": 18,
+    "level": 5,
+    "sentence": "彼女の態度は非常に慎重だった。",
+    "translation": "Her attitude was extremely cautious.",
+    "expressions": [
+      { "expression": "彼女", "meaning": "She / Her (かのじょ)", "nuance": "Third-person female pronoun. Also means 'girlfriend.'" },
+      { "expression": "態度", "meaning": "Attitude / Manner (たいど)", "nuance": "The way a person carries themselves or behaves toward others." },
+      { "expression": "非常", "meaning": "Extremely / Emergency (ひじょう)", "nuance": "Usually means 'very,' but literally means 'not ordinary.' Also used in 'hijouguchi' (emergency exit)." },
+      { "expression": "慎重", "meaning": "Cautious / Prudent (しんちょう)", "nuance": "Describes taking great care to avoid risks or mistakes. It implies being deliberate and thoughtful." }
+    ]
+  },
+  {
+    "id": 19,
+    "level": 3,
+    "sentence": "この地域では人口が減少している。",
+    "translation": "The population is decreasing in this area.",
+    "expressions": [
+      { "expression": "地域", "meaning": "Area / Region (ちいき)", "nuance": "A specific geographic district or a local community." },
+      { "expression": "人口", "meaning": "Population (じんこう)", "nuance": "The number of people living in a particular place. Literally 'human mouths' to feed." },
+      { "expression": "減少", "meaning": "Decrease / Decline (げんしょう)", "nuance": "Used in statistical or formal contexts to describe a reduction in numbers or amount." }
+    ]
+  },
+  {
+    "id": 20,
+    "level": 4,
+    "sentence": "彼の意見には根拠がある。",
+    "translation": "His opinion has a basis.",
+    "expressions": [
+      { "expression": "意見", "meaning": "Opinion (いけん)", "nuance": "A personal view or thought about something." },
+      { "expression": "根拠", "meaning": "Basis / Grounds (こんきょ)", "nuance": "The facts or evidence that support a claim or decision. Crucial in logical arguments." }
+    ]
+  },
+  {
+    "id": 21,
+    "level": 2,
+    "sentence": "健康を維持することが大切だ。",
+    "translation": "It is important to maintain your health.",
+    "expressions": [
+      { "expression": "健康", "meaning": "Health (けんこう)", "nuance": "The state of being free from illness or injury, both physically and mentally." },
+      { "expression": "維持", "meaning": "Maintenance / Preservation (いじ)", "nuance": "Keeping a certain state or level from changing or declining." },
+      { "expression": "大切", "meaning": "Important / Precious (たいせつ)", "nuance": "Describes something that has great value or requires careful attention." }
+    ]
+  },
+  {
+    "id": 22,
+    "level": 3,
+    "sentence": "彼は困難な状況を克服した。",
+    "translation": "He overcame a difficult situation.",
+    "expressions": [
+      { "expression": "困難", "meaning": "Difficulty / Hardship (こんなん)", "nuance": "A state or situation that is very hard to deal with or get through." },
+      { "expression": "状況", "meaning": "Situation / Circumstances (じょうきょう)", "nuance": "The set of conditions or the state of affairs at a particular time and place." },
+      { "expression": "克服", "meaning": "To overcome / To conquer (こくふく)", "nuance": "Successfully dealing with a problem, weakness, or obstacle and moving past it." }
+    ]
+  },
+  {
+    "id": 23,
+    "level": 4,
+    "sentence": "その情報は完全に一致している。",
+    "translation": "The information completely matches.",
+    "expressions": [
+      { "expression": "情報", "meaning": "Information / Data (じょうほう)", "nuance": "Knowledge or facts communicated about a particular subject." },
+      { "expression": "完全", "meaning": "Complete / Perfect (かんぜん)", "nuance": "Describes a state where nothing is missing or everything is finished to a perfect degree." },
+      { "expression": "一致", "meaning": "Match / Agreement (いっち)", "nuance": "When two or more things are exactly the same or in harmony with each other." }
+    ]
+  },
+  {
+    "id": 24,
+    "level": 3,
+    "sentence": "会社は新しい市場に参入した。",
+    "translation": "The company entered a new market.",
+    "expressions": [
+      { "expression": "会社", "meaning": "Company / Corporation (かいしゃ)", "nuance": "A business organization. 'Kaishain' refers to a company employee." },
+      { "expression": "市場", "meaning": "Market (しじょう)", "nuance": "In this context, it refers to the economic market. (If read as 'ichiba', it refers to a physical marketplace)." },
+      { "expression": "参入", "meaning": "Entry / Penetration (さんにゅう)", "nuance": "A formal business term for a company entering a new field of business or a new market." }
+    ]
+  },
+  {
+    "id": 25,
+    "level": 5,
+    "sentence": "その結果は予想を上回った。",
+    "translation": "The results exceeded expectations.",
+    "expressions": [
+      { "expression": "結果", "meaning": "Result / Outcome (けっか)", "nuance": "The final consequence or effect of an earlier action or event." },
+      { "expression": "予想", "meaning": "Expectation / Forecast (よそう)", "nuance": "An opinion formed beforehand about what is likely to happen." },
+      { "expression": "上回る", "meaning": "To exceed / To surpass (うわまわる)", "nuance": "To be greater than a certain number, standard, or expectation." }
+    ]
+  },
+  {
+    "id": 26,
+    "level": 2,
+    "sentence": "計画を変更する必要がある。",
+    "translation": "We need to change the plan.",
+    "expressions": [
+      { "expression": "計画", "meaning": "Plan / Scheme (けいかく)", "nuance": "A detailed proposal for doing or achieving something." },
+      { "expression": "変更", "meaning": "Change / Modification (へんこう)", "nuance": "The act of making something different, usually a formal plan, rule, or schedule." }
+    ]
+  },
+  {
+    "id": 27,
+    "level": 3,
+    "sentence": "この製品の品質は非常に高い。",
+    "translation": "The quality of this product is very high.",
+    "expressions": [
+      { "expression": "製品", "meaning": "Product / Manufactured goods (せいひん)", "nuance": "Specifically refers to items that have been produced in a factory or through a manufacturing process." },
+      { "expression": "品質", "meaning": "Quality (ひんしつ)", "nuance": "The standard of something as measured against other things of a similar kind." },
+      { "expression": "高い", "meaning": "High / Expensive (たかい)", "nuance": "Can refer to physical height, a high level/standard, or a high price." }
+    ]
+  },
+  {
+    "id": 28,
+    "level": 4,
+    "sentence": "彼は事実を否定した。",
+    "translation": "He denied the fact.",
+    "expressions": [
+      { "expression": "事実", "meaning": "Fact / Truth (じじつ)", "nuance": "Something that actually exists or has happened. It is objective and verifiable." },
+      { "expression": "否定", "meaning": "Denial / Negation (ひてい)", "nuance": "The act of saying that something is not true or refusing to admit something." }
+    ]
+  },
+  {
+    "id": 29,
+    "level": 3,
+    "sentence": "新しい技術が社会に普及している。",
+    "translation": "New technology is spreading throughout society.",
+    "expressions": [
+      { "expression": "技術", "meaning": "Technology / Skill (ぎじゅつ)", "nuance": "Can refer to high-end technology or a specific personal skill/technique." },
+      { "expression": "社会", "meaning": "Society (しゃかい)", "nuance": "The aggregate of people living together in a more or less ordered community." },
+      { "expression": "普及", "meaning": "Diffusion / Spread (ふきゅう)", "nuance": "Used when something (like a device, idea, or service) becomes common and used by many people." }
+    ]
+  },
+  {
+    "id": 30,
+    "level": 4,
+    "sentence": "その提案はすぐに承認された。",
+    "translation": "The proposal was immediately approved.",
+    "expressions": [
+      { "expression": "承認", "meaning": "Approval / Authorization (しょうにん)", "nuance": "The formal act of agreeing to or accepting something, often by someone in authority." }
+    ]
+  }
+]
