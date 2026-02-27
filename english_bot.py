@@ -42,6 +42,7 @@ def get_daily_ranking():
         )
         .filter(UserStat.created_at >= day_ago)
         .filter(UserStat.created_at < end)
+        .filter(UserStat.server == "EN")
         .group_by(UserStat.user_id)
         .order_by(func.sum(UserStat.amount).desc())
         .limit(1)
@@ -75,6 +76,7 @@ def get_weekly_ranking():
         )
         .filter(UserStat.created_at >= seven_days_ago)
         .filter(UserStat.created_at < end)
+        .filter(UserStat.server == "EN")
         .group_by(UserStat.user_id)
         .order_by(func.sum(UserStat.amount).desc())
         .limit(3)
@@ -208,6 +210,7 @@ async def daily_scheduler():
 @bot.event
 async def on_ready():
     daily_scheduler.start()
+
 
 
 
