@@ -21,5 +21,7 @@ class UserStat(Base):
     user_id = Column(String, nullable=False)
     amount = Column(BigInteger, nullable=False)
     created_at = Column(DateTime)
+    server = Column(String, nullable=False)
 
 Base.metadata.create_all(bind=engine)
+
