@@ -190,7 +190,8 @@ async def on_message(message):
                 log = UserStat(
                     user_id=str(message.author.id),
                     amount=total_add,
-                    created_at=current_hour()
+                    created_at=current_hour(),
+                    server="EN"
                 )
                 
                 db.add(log)
@@ -225,3 +226,4 @@ async def daily_scheduler():
 @bot.event
 async def on_ready():
     daily_scheduler.start()
+
